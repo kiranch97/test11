@@ -447,13 +447,6 @@ tensorboard-plugin-wit==1.8.0; python_version >= "2.7" and python_full_version <
     --hash=sha256:2a80d1c551d741e99b2f197bb915d8a133e24adb8da1732b840041860f91183a
 tensorboard==2.4.1; (python_version >= "2.7" and python_full_version < "3.0.0") or (python_full_version >= "3.2.0") \
     --hash=sha256:7b8c53c396069b618f6f276ec94fc45d17e3282d668979216e5d30be472115e4
-torch==1.7.*; python_full_version >= "3.6.1" \
-    --hash=sha256:7669f4d923b5758e28b521ea749c795ed67ff24b45ba20296bc8cff706d08df8 \
-    --hash=sha256:728facb972a5952323c6d790c2c5922b2b35c44b0bc7bdfa02f8639727671a0c \
-    --hash=sha256:87d65c01d1b70bb46070824f28bfd93c86d3c5c56b90cbbe836a3f2491d91c76 \
-    --hash=sha256:3838bd01af7dfb1f78573973f6842ce75b17e8e4f22be99c891dcb7c94bc13f5 \
-    --hash=sha256:5357873e243bcfa804c32dc341f564e9a4c12addfc9baae4ee857fcc09a0a216 \
-    --hash=sha256:4f9a4ad7947cef566afb0a323d99009fe8524f0b0f2ca1fb7ad5de0400381a5b
 torchvision==0.7.0 \
     --hash=sha256:a70d80bb8749c1e4a46fa56dc2fc857e98d14600841e02cc2fed766daf96c245 \
     --hash=sha256:14c0bf60fa26aabaea64ef30b8e5d441ee78d1a5eed568c30806af19bbe6b638 \
